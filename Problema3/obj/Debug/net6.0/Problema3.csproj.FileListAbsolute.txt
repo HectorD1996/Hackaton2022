@@ -1,0 +1,15 @@
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\bin\Debug\net6.0\Problema3.exe
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\bin\Debug\net6.0\Problema3.deps.json
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\bin\Debug\net6.0\Problema3.runtimeconfig.json
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\bin\Debug\net6.0\Problema3.dll
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\bin\Debug\net6.0\Problema3.pdb
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.AssemblyInfo.cs
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.dll
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\refint\Problema3.dll
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.pdb
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\Problema3.genruntimeconfig.cache
+C:\Users\hecto\source\repos\Hackaton2022\Problema3\obj\Debug\net6.0\ref\Problema3.dll
