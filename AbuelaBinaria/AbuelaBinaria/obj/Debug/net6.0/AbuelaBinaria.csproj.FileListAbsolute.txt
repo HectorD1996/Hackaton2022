@@ -1,0 +1,15 @@
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\bin\Debug\net6.0\AbuelaBinaria.exe
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\bin\Debug\net6.0\AbuelaBinaria.deps.json
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\bin\Debug\net6.0\AbuelaBinaria.runtimeconfig.json
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\bin\Debug\net6.0\AbuelaBinaria.dll
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\bin\Debug\net6.0\AbuelaBinaria.pdb
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.csproj.AssemblyReference.cache
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.AssemblyInfoInputs.cache
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.AssemblyInfo.cs
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.dll
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\refint\AbuelaBinaria.dll
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.pdb
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\AbuelaBinaria.genruntimeconfig.cache
+C:\Users\Oskar\source\repos\AbuelaBinaria\AbuelaBinaria\obj\Debug\net6.0\ref\AbuelaBinaria.dll
