@@ -1,0 +1,15 @@
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\bin\Debug\net6.0\Scramble.exe
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\bin\Debug\net6.0\Scramble.deps.json
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\bin\Debug\net6.0\Scramble.runtimeconfig.json
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\bin\Debug\net6.0\Scramble.dll
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\bin\Debug\net6.0\Scramble.pdb
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.AssemblyInfo.cs
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.dll
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\refint\Scramble.dll
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.pdb
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\Scramble.genruntimeconfig.cache
+C:\Users\hecto\source\repos\Hackaton2022\Scramble\obj\Debug\net6.0\ref\Scramble.dll

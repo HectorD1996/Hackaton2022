@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scramble", "Scramble.csproj", "{93378168-80D4-4734-A962-774A235D273B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93378168-80D4-4734-A962-774A235D273B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93378168-80D4-4734-A962-774A235D273B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93378168-80D4-4734-A962-774A235D273B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93378168-80D4-4734-A962-774A235D273B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521BEC89-0E79-4A4F-A054-48FC324FCF4A}
+	EndGlobalSection
+EndGlobal
